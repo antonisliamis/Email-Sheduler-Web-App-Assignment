@@ -1,0 +1,35 @@
+12 Email Sheduler-Reminder (web app)
+═══════════════════════
+
+(Antonios) 
+Software and Design Lab/ Spring Semester 2019
+
+1.Description (What is the software that you need built? What is its purpose? Who is it for?)
+Appointment reminders are simply apps that help remind us of different scheduled events. Appointments are necessary and thus part of every walk of life. In order to be prompt and successful every person needs to remember each important or minor appointment. Reminders also plays an important role so that one does not forget obligations within a particular time frame.Most people nowadays rely on their phones and SMS is more likely to be read, especially for short term reminders a few hours or even days before a particular appointment.
+
+The idea is that today’s user is overwhelmed with obligations, important conflicting events, urgent deadlines, RSVP’s and appointment scheduling  and responding to countless emails and their deadlines. With the growing number of things that he has on his plate the likelihood is to miss one or two crucial things which can be devastating to him both personally and professionally. Therefore the need arises for something to have his back and notify him.
+All users handle a plethora of emails on a daily basis. Even though they have been sorted out though email software systems, it is crucial  to be able to manipulate them through an app,  which will help user to prioritize the importance of every email as it pertains to deadline.  The description and the deadline that he has to respond back will facilitate him greatly.
+Email Scheduling is also an excellent method to reach one’s email at whatever time is planned. Scheduling emails is a much more effective way by taking account of your customers time zone and informing you of the best day and time to reach them.
+Even if all email software has a variety of ways to prioritize the reminders, none of this reminds you of your various urgent events , deadlines, RSVPs, or appointments. Outlook for example features the red flag sign, Gmail uses the star sign and Hotmail also uses a similar flag sign. But each of these work locally and only if the user sets a personal and specific time-consuming reminder (by hand ) where the software alerts each user that it is time to “act urgently». The idea is to create an app which will notify the user though a unique custom type of warning that alerts the time to start working on any given deadline.
+ 
+This app will be addressed to serve all types of people that they have an overwhelming amount of pending email that they need to tend to and administrate. This could also address business professionals as well as students who want to sort out all their deadlines.  Student responsibilities include (workshops, assignments, midterms, library books returns, tests, team working in platforms such as slack, etc.)
+This will be also be an indispensable tool  for many different types of users that have to multitask activities and who need an app that gives to them the ability to structure and assist them by reminding them in a timely fashions of their obligations appointments and all  things have to work out.
+
+2. Requirements (What do you see right now as essential to the software? Are there any limitations that your team of software designers will need to know about?)
+The need to cooperate with Outlook, Gmail Yahoo, Hotmail and Apple emails and the ability to allow the scheduling of reminder emails to be sent at a later date, and to allow for follow up reminders as well as user’s hands on manipulation of the concerned emails .
+ 
+The most important aspects of the data of each email which have to be connected and synchronized somehow with the alert system of the application needs to be addressed.
+The app has to be native integrated with the major email software , retrieving data form email account (e.g. from the body of each email)and setting the type of notification you need to create.
+The app reminds the user through a pop up  note of the deadline to deal with .
+The app will allow the opportunity to have access to the current email and work on that instantly.
+The user will be able to dismiss it or to cancel the notifications or submit the fulfillment of the notification.
+What we also might need for that app is to have a very useful professional sophisticated and useable environment so that the user will be able to directly handle  the administration of every import email through the app interface. 
+
+3. About you or your organization (Why should a team of designers want to work on your project? Why is this software meaningful, important, or urgent? Why are you the one to ask that this software be made?)
+ 
+As a student and also as a  freelance editor/UI designer, I belong to the teams that face on a daily basis similar difficulties relating the tracking and follow ups  of f my client deadlines. This kind of app would give me the flexibility to follow deadlines precisely  and  be on time with all of my schedule sessions .
+Also this app could:
+·  Save time and be efficient
+·  Save money
+·  Increase productivity levels
+·  Set secure time deadlines
